@@ -7,55 +7,55 @@ I am a technology enthusiast & a budding Software Engineer from India.
 #### Technologies I work with:
 
 <p float="center">
-      <a href="https://golang.org/" target="_blank" ><p title="Go/Golang">
+      <a href="https://golang.org/" target="_blank" ><p title="Go/Golang"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="200" width ="200" alt="Go/Golang"/>
       </a>
-    <a href="https://grpc.io/" target="_blank" ><p title="gRPC">
+    <a href="https://grpc.io/" target="_blank" ><p title="gRPC"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="200" width ="200" alt="gRPC"/>
     </a>
-    <a href="https://www.docker.com/" target="_blank" ><p title="Docker">
+    <a href="https://www.docker.com/" target="_blank" ><p title="Docker"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/docker.png" height="150" width ="180" alt="Docker"/>
     </a>
-    <a href="https://kubernetes.io/" target="_blank" ><p title="Kubernetes">
+    <a href="https://kubernetes.io/" target="_blank" ><p title="Kubernetes"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/kubernetes.png" height="150" width ="150" alt="Kubernetes"/>
     </a>
 </p>
 <p float="center">
-    <a href="https://www.digitalocean.com/" target="_blank" ><p title="Digital Ocean">
+    <a href="https://www.digitalocean.com/" target="_blank" ><p title="Digital Ocean"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/digital-ocean.png" height="200" width ="200" alt="Digital Ocean"/>
     </a>
-      <a href="https://aws.amazon.com/" target="_blank" ><p title="Amazon Web Services(AWS)">
+      <a href="https://aws.amazon.com/" target="_blank" ><p title="Amazon Web Services(AWS)"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="120" width ="200" alt="Amazon Web Services"/>
       </a>
-      <a href="https://docs.gitlab.com/ee/ci/" target="_blank" ><p title="Gitlab CI/CD">
+      <a href="https://docs.gitlab.com/ee/ci/" target="_blank" ><p title="Gitlab CI/CD"></p>
     <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="200" width ="200" alt="Gitlab CI"/>
   </a>
-      <a href="https://circleci.com/" target="_blank" ><p title="CircleCI">
+      <a href="https://circleci.com/" target="_blank" ><p title="CircleCI"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/circle.png" height="200" width ="200" alt="CircleCI"/>
       </a>
 </p>
 <p float="center">
-      <a href="https://www.consul.io/" target="_blank" ><p title="Consul">
+      <a href="https://www.consul.io/" target="_blank" ><p title="Consul"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="200" width ="150" alt="Consul"/>
       </a>
-    <a href="https://www.openfaas.com/" target="_blank" ><p title="OpenFaaS">
+    <a href="https://www.openfaas.com/" target="_blank" ><p title="OpenFaaS"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="200" width ="200" alt="OpenFaaS"/>
     </a>
-      <a href="https://www.mysql.com/" target="_blank" ><p title="MySQL">
+      <a href="https://www.mysql.com/" target="_blank" ><p title="MySQL"></p>
     <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mysql.png" height="200" width ="250" alt="MySQL"/>
   </a>
-      <a href="https://www.postgresql.org/" target="_blank" ><p title="PostgreSQL">
+      <a href="https://www.postgresql.org/" target="_blank" ><p title="PostgreSQL"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/postgre-sql.png" height="200" width ="200" alt="PostgreSQL"/>
       </a>
 </p>
 <p float="center">
-    <a href="https://www.mongodb.com/" target="_blank" ><p title="MongoDB">
+    <a href="https://www.mongodb.com/" target="_blank" ><p title="MongoDB"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mongo-db.png" height="200" width ="200" alt="MongoDB"/>
     </a>
-      <a href="https://redis.io/" target="_blank" ><p title="Redis">
+      <a href="https://redis.io/" target="_blank" ><p title="Redis"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/redis.png" height="100" width ="300" alt="Redis"/>
       </a>
-    <a href="https://graphql.org/" target="_blank" ><p title="GraphQL">
+    <a href="https://graphql.org/" target="_blank" ><p title="GraphQL"></p>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/graph-ql.png" height="150" width ="150" alt="GraphQL"/>
     </a>
 </p>
