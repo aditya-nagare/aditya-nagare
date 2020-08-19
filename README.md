@@ -54,7 +54,7 @@ I am **[Aditya](https://github.com/aditya-nagare)**, I am a technology enthusias
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/redis.png" height="50" width ="150" alt="Redis" title="Redis"/>
       </a>
     <a href="https://graphql.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/graph-ql.png" height="100" width ="100" alt="GraphQL" title="GraphQL"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/graph-ql.png" height="80" width ="80" alt="GraphQL" title="GraphQL"/>
     </a>
 </p>
 
