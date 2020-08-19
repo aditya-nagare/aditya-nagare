@@ -7,8 +7,8 @@ I am a technology enthusiast & a budding Software Engineer from India.
 #### Technologies I work with:
 
 <p float="center">
-      <a href="https://golang.org/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="200" width ="200" alt="Go/Golang"/>Go/Golang
+      <a href="https://golang.org/" target="_blank" ><p title="Go/Golang">
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="200" width ="200" alt="Go/Golang"/></p>
       </a>
     <a href="https://grpc.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="200" width ="200" alt="gRPC"/>
