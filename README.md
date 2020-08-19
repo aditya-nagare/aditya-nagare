@@ -6,103 +6,70 @@ I am a technology enthusiast & a budding Software Engineer from India.
 
 #### Technologies I work with:
 
-<div class="row">
-  <div class="column">
+<p>
       <a href="https://golang.org/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="200" width="200" alt="Go/Golang"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="100"  alt="Go/Golang"/>
       </a>
-  </div>
-  <div class="column">
     <a href="https://grpc.io/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="150" width="150" alt="gRPC"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="100"  alt="gRPC"/>
     </a>
-  </div>
-</div>
+</p>
 
-<div class="row">
-  <div class="column">
+<p>
     <a href="https://www.docker.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/docker.png" height="150" width="150" alt="Docker"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/docker.png" height="100"  alt="Docker"/>
     </a>
-  </div>
-<div class="column">
     <a href="https://kubernetes.io/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/kubernetes.png" height="120" width="120" alt="Kubernetes"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/kubernetes.png" height="100" alt="Kubernetes"/>
     </a>
-  </div>
-</div>
-
-<div class="row">
-<div class="column">
     <a href="https://www.digitalocean.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/digital-ocean.png" height="200" width="180" alt="Digital Ocean"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/digital-ocean.png" height="100"  alt="Digital Ocean"/>
     </a>
-  </div>  
-<div class="column">
       <a href="https://aws.amazon.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="180" width="180" alt="Amazon Web Services"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="100"  alt="Amazon Web Services"/>
       </a>
-  </div>
-</div>
+  </p>
 
-<div class="row">
-  <div class="column">
+<p>
       <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="150" width="150" alt="Gitlab CI"/>
+    <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="100"  alt="Gitlab CI"/>
   </a>
-  </div>
-  <div class="column">
       <a href="https://circleci.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/circle.png" height="200" width="200" alt="CircleCI"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/circle.png" height="100"  alt="CircleCI"/>
       </a>
-  </div>
-</div>
+</p>
 
-<div class="row">
-  <div class="column">
+<p>
       <a href="https://www.consul.io/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="150" width="150" alt="Consul"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="100"  alt="Consul"/>
       </a>
-  </div>
-  <div class="column">
     <a href="https://www.openfaas.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="200" width="200" alt="OpenFaaS"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="100"  alt="OpenFaaS"/>
     </a>
-  </div>
-</div>
+</p>
 
-<div class="row">
-  <div class="column">
+<p>
       <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mysql.png" height="200" width="200" alt="MySQL"/>
+    <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mysql.png" height="100"  alt="MySQL"/>
   </a>
-  </div>
-  <div class="column">
       <a href="https://www.postgresql.org/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/postgre-sql.png" height="150" width="150" alt="PostgreSQL"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/postgre-sql.png" height="100"  alt="PostgreSQL"/>
       </a>
-  </div>
-  <div class="column">
     <a href="https://www.mongodb.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mongo-db.png" height="150" width="150" alt="MongoDB"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mongo-db.png" height="100"  alt="MongoDB"/>
     </a>
-  </div>
-</div>
+</p>
 
-<div class="row">
-  <div class="column">
+<p>
       <a href="https://redis.io/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/redis.png" height="250" width="250" alt="Redis"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/redis.png" height="100"  alt="Redis"/>
       </a>
-  </div>
-  <div class="column">
     <a href="https://graphql.org/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/graph-ql.png" height="150" width="150" alt="GraphQL"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/graph-ql.png" height="100"  alt="GraphQL"/>
     </a>
-  </div>
-</div>
+</p>
 
 ### 🌐 Get In Touch with Me:
 
-**Connect with me on LinkedIn [💬](https://www.linkedin.com/in/adityanagare)**<br>
-**Send me an Email [📫](mailto:nagareaditya777@gmail.com)**<br>
+💬 **Connect with me on [LinkedIn](https://www.linkedin.com/in/adityanagare)**<br>
+📫 **Send me an [Email](mailto:nagareaditya777@gmail.com)**<br>
