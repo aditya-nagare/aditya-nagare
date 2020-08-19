@@ -8,7 +8,7 @@ I am a technology enthusiast & a budding Software Engineer from India.
 
 <p float="center">
       <a href="https://golang.org/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="100" width ="100" alt="Go/Golang"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="200" width ="200" alt="Go/Golang"/>
       </a>
     <a href="https://grpc.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="100" width ="120" alt="gRPC"/>
@@ -16,6 +16,8 @@ I am a technology enthusiast & a budding Software Engineer from India.
     <a href="https://www.docker.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/docker.png" height="100" width ="120" alt="Docker"/>
     </a>
+</p>
+<p float="center">
     <a href="https://kubernetes.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/kubernetes.png" height="100" width ="100" alt="Kubernetes"/>
     </a>
@@ -25,6 +27,8 @@ I am a technology enthusiast & a budding Software Engineer from India.
       <a href="https://aws.amazon.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="80" width ="100" alt="Amazon Web Services"/>
       </a>
+</p>
+<p float="center">
       <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="100" width ="100" alt="Gitlab CI"/>
   </a>
@@ -34,6 +38,8 @@ I am a technology enthusiast & a budding Software Engineer from India.
       <a href="https://www.consul.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="120" width ="100" alt="Consul"/>
       </a>
+</p>
+<p float="center">
     <a href="https://www.openfaas.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="100" width ="100" alt="OpenFaaS"/>
     </a>
@@ -43,6 +49,8 @@ I am a technology enthusiast & a budding Software Engineer from India.
       <a href="https://www.postgresql.org/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/postgre-sql.png" height="100" width ="100" alt="PostgreSQL"/>
       </a>
+</p>
+<p float="center">
     <a href="https://www.mongodb.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mongo-db.png" height="100" width ="100" alt="MongoDB"/>
     </a>
