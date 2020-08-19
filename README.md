@@ -20,7 +20,7 @@ I am **[Aditya](https://github.com/aditya-nagare)**, I am a technology enthusias
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/kubernetes.png" height="100" width ="100" alt="Kubernetes" title="Kubernetes"/>
     </a>
       <a href="https://www.consul.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="100" width ="80" alt="Consul" title="Consul"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="150" width ="80" alt="Consul" title="Consul"/>
       </a>
     <a href="https://www.openfaas.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="100" width ="100" alt="OpenFaaS" title="OpenFaaS"/>
@@ -37,7 +37,7 @@ I am **[Aditya](https://github.com/aditya-nagare)**, I am a technology enthusias
     <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="100" width ="100" alt="Gitlab CI" title="Gitlab CI/CD"/>
   </a>
       <a href="https://circleci.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/circle.png" height="150" width ="150" alt="CircleCI" title="CircleCI"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/circle.png" height="120" width ="120" alt="CircleCI" title="CircleCI"/>
       </a>
 </p>
 <p float="center">
