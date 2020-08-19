@@ -8,13 +8,14 @@ I am a technology enthusiast & a budding Software Engineer from India.
 
 <p float="center">
       <a href="https://golang.org/" target="_blank" >
+<span>Go/Golang</span>
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="200" width ="200" alt="Go/Golang"/>
       </a>
     <a href="https://grpc.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="200" width ="200" alt="gRPC"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/docker.png" height="150" width ="200" alt="Docker"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/docker.png" height="150" width ="180" alt="Docker"/>
     </a>
     <a href="https://kubernetes.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/kubernetes.png" height="150" width ="150" alt="Kubernetes"/>
