@@ -13,9 +13,6 @@ I am a technology enthusiast & a budding Software Engineer from India.
     <a href="https://grpc.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="100" alt="gRPC"/>
     </a>
-</p>
-
-<p>
     <a href="https://www.docker.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/docker.png" height="100" alt="Docker"/>
     </a>
@@ -28,27 +25,18 @@ I am a technology enthusiast & a budding Software Engineer from India.
       <a href="https://aws.amazon.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="100" alt="Amazon Web Services"/>
       </a>
-  </p>
-
-<p>
       <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="100" alt="Gitlab CI"/>
   </a>
       <a href="https://circleci.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/circle.png" height="100" alt="CircleCI"/>
       </a>
-</p>
-
-<p>
       <a href="https://www.consul.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="100" alt="Consul"/>
       </a>
     <a href="https://www.openfaas.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="100" alt="OpenFaaS"/>
     </a>
-</p>
-
-<p>
       <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mysql.png" height="100" alt="MySQL"/>
   </a>
@@ -58,9 +46,6 @@ I am a technology enthusiast & a budding Software Engineer from India.
     <a href="https://www.mongodb.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mongo-db.png" height="100" alt="MongoDB"/>
     </a>
-</p>
-
-<p>
       <a href="https://redis.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/redis.png" height="100" alt="Redis"/>
       </a>
