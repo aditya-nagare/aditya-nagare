@@ -8,10 +8,10 @@ I am a technology enthusiast & a budding Software Engineer from India.
 
 <p float="center">
       <a href="https://golang.org/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="150" width ="200" alt="Go/Golang"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="200" width ="200" alt="Go/Golang"/>
       </a>
     <a href="https://grpc.io/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="150" width ="200" alt="gRPC"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/grpc.png" height="200" width ="200" alt="gRPC"/>
     </a>
     <a href="https://www.docker.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/docker.png" height="150" width ="200" alt="Docker"/>
@@ -22,33 +22,33 @@ I am a technology enthusiast & a budding Software Engineer from India.
 </p>
 <p float="center">
     <a href="https://www.digitalocean.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/digital-ocean.png" height="100" width ="120" alt="Digital Ocean"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/digital-ocean.png" height="200" width ="200" alt="Digital Ocean"/>
     </a>
       <a href="https://aws.amazon.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="80" width ="100" alt="Amazon Web Services"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="150" width ="200" alt="Amazon Web Services"/>
       </a>
-</p>
-<p float="center">
       <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="150" width ="100" alt="Gitlab CI"/>
+    <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="150" width ="150" alt="Gitlab CI"/>
   </a>
       <a href="https://circleci.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/circle.png" height="150" width ="150" alt="CircleCI"/>
       </a>
+</p>
+<p float="center">
       <a href="https://www.consul.io/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="150" width ="100" alt="Consul"/>
       </a>
     <a href="https://www.openfaas.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="150" width ="150" alt="OpenFaaS"/>
     </a>
-</p>
-<p float="center">
       <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mysql.png" height="100" width ="150" alt="MySQL"/>
   </a>
       <a href="https://www.postgresql.org/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/postgre-sql.png" height="150" width ="150" alt="PostgreSQL"/>
       </a>
+</p>
+<p float="center">
     <a href="https://www.mongodb.com/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mongo-db.png" height="150" width ="150" alt="MongoDB"/>
     </a>
