@@ -7,8 +7,7 @@ I am a technology enthusiast & a budding Software Engineer from India.
 #### Technologies I work with:
 
 <p float="center">
-      <!-- <a href="https://golang.org/" target="_blank"> -->
-    <a onclick="window.open(this.href,'_blank');return false;" href="https://golang.org/">
+      <a href="https://golang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/go.png" height="200" width ="200" alt="Go/Golang" title="Go/Golang"/>
       </a>
     <a href="https://grpc.io/" target="_blank">
