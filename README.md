@@ -25,7 +25,7 @@ I am a technology enthusiast & a budding Software Engineer from India.
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/digital-ocean.png" height="200" width ="200" alt="Digital Ocean"/>
     </a>
       <a href="https://aws.amazon.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="150" width ="150" alt="Amazon Web Services"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/aws.png" height="150" width ="200" alt="Amazon Web Services"/>
       </a>
       <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/gitlab-ci-cd.png" height="200" width ="200" alt="Gitlab CI"/>
