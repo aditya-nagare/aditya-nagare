@@ -39,10 +39,10 @@ I am a technology enthusiast & a budding Software Engineer from India.
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/consul.png" height="200" width ="150" alt="Consul"/>
       </a>
     <a href="https://www.openfaas.com/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="150" width ="150" alt="OpenFaaS"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/open-faas.png" height="200" width ="200" alt="OpenFaaS"/>
     </a>
       <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mysql.png" height="150" width ="200" alt="MySQL"/>
+    <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mysql.png" height="200" width ="250" alt="MySQL"/>
   </a>
       <a href="https://www.postgresql.org/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/postgre-sql.png" height="200" width ="200" alt="PostgreSQL"/>
@@ -53,7 +53,7 @@ I am a technology enthusiast & a budding Software Engineer from India.
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/mongo-db.png" height="200" width ="200" alt="MongoDB"/>
     </a>
       <a href="https://redis.io/" target="_blank" >
-        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/redis.png" height="100" width ="250" alt="Redis"/>
+        <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/redis.png" height="100" width ="300" alt="Redis"/>
       </a>
     <a href="https://graphql.org/" target="_blank" >
         <img src="https://raw.githubusercontent.com/aditya-nagare/aditya-nagare/master/assets/graph-ql.png" height="150" width ="150" alt="GraphQL"/>
