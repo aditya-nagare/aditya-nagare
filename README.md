@@ -1,10 +1,8 @@
-### Hey there! 👋
+## Hey there! 👋
 
-I am **Aditya**,
+I am **Aditya**, I am a technology enthusiast & a budding Software Engineer from India.
 
-I am a technology enthusiast & a budding Software Engineer from India.
-
-#### Technologies I work with:
+### Technologies I work with:
 
 <p float="center">
       <a href="https://golang.org/" target="_blank">
